@@ -8,7 +8,7 @@ const HomePage = () => (
         <div className="content">
           <h1 className="title"> HATS </h1>{" "}
           <span className="subtitle"> SHOP NOW </span>{" "}
-        </div>{" "}
+        </div>
       </div>{" "}
       <div className="menu-item">
         <div className="content">
@@ -18,19 +18,19 @@ const HomePage = () => (
       </div>{" "}
       <div className="menu-item">
         <div className="content">
-          <h1 className="title"> SNEAKERS </h1>{" "}
+          <h1 className="title"> SHOES </h1>{" "}
           <span className="subtitle"> SHOP NOW </span>{" "}
         </div>{" "}
       </div>{" "}
       <div className="menu-item">
         <div className="content">
-          <h1 className="title"> MEN </h1>{" "}
+          <h1 className="title"> WOMENS </h1>{" "}
           <span className="subtitle"> SHOP NOW </span>{" "}
         </div>{" "}
       </div>{" "}
       <div className="menu-item">
         <div className="content">
-          <h1 className="title"> WOMEN </h1>{" "}
+          <h1 className="title"> MENS </h1>{" "}
           <span className="subtitle"> SHOP NOW </span>{" "}
         </div>{" "}
       </div>{" "}
